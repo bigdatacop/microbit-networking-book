@@ -1,0 +1,35 @@
+{
+    "name": "microbit-networking-book",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*"
+    },
+    "files": [
+        "README.md",
+        "about/licence.md",
+        "about/thankyou.md",
+        "acknowledgements/acknowledgements.md",
+        "battleship/battleship.md",
+        "broadcast/broadcast.md",
+        "groupcommunication/groupcommunication.md",
+        "index.md",
+        "mkdocs_rendering/README.md",
+        "mkdocs_rendering/docs/index.md",
+        "retransmissions/retransmissions.md",
+        "rockpaperscissors/rockpaperscissors.md",
+        "shakeydonkey/shakeydonkey.md",
+        "twowayunicast/twowayunicast.md",
+        "unicast/unicast.md",
+        "wiredcommunication/wiredcommunication.md",
+        "main.blocks",
+        "main.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
